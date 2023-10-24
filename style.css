@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: opx;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav.main menu{
+  display: flex;
+}
